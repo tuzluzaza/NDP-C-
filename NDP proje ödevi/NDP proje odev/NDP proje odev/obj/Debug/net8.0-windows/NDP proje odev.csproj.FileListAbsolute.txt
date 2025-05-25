@@ -1,0 +1,20 @@
+D:\yazılım işi\NDP proje odev\NDP proje odev\bin\Debug\net8.0-windows\NDP proje odev.exe
+D:\yazılım işi\NDP proje odev\NDP proje odev\bin\Debug\net8.0-windows\NDP proje odev.deps.json
+D:\yazılım işi\NDP proje odev\NDP proje odev\bin\Debug\net8.0-windows\NDP proje odev.runtimeconfig.json
+D:\yazılım işi\NDP proje odev\NDP proje odev\bin\Debug\net8.0-windows\NDP proje odev.dll
+D:\yazılım işi\NDP proje odev\NDP proje odev\bin\Debug\net8.0-windows\NDP proje odev.pdb
+D:\yazılım işi\NDP proje odev\NDP proje odev\obj\Debug\net8.0-windows\NDP_proje_odev.Form1.resources
+D:\yazılım işi\NDP proje odev\NDP proje odev\obj\Debug\net8.0-windows\NDP_proje_odev.Form2.resources
+D:\yazılım işi\NDP proje odev\NDP proje odev\obj\Debug\net8.0-windows\NDP proje odev.csproj.GenerateResource.cache
+D:\yazılım işi\NDP proje odev\NDP proje odev\obj\Debug\net8.0-windows\NDP proje odev.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım işi\NDP proje odev\NDP proje odev\obj\Debug\net8.0-windows\NDP proje odev.AssemblyInfoInputs.cache
+D:\yazılım işi\NDP proje odev\NDP proje odev\obj\Debug\net8.0-windows\NDP proje odev.AssemblyInfo.cs
+D:\yazılım işi\NDP proje odev\NDP proje odev\obj\Debug\net8.0-windows\NDP proje odev.csproj.CoreCompileInputs.cache
+D:\yazılım işi\NDP proje odev\NDP proje odev\obj\Debug\net8.0-windows\NDP proje odev.dll
+D:\yazılım işi\NDP proje odev\NDP proje odev\obj\Debug\net8.0-windows\refint\NDP proje odev.dll
+D:\yazılım işi\NDP proje odev\NDP proje odev\obj\Debug\net8.0-windows\NDP proje odev.pdb
+D:\yazılım işi\NDP proje odev\NDP proje odev\obj\Debug\net8.0-windows\NDP proje odev.genruntimeconfig.cache
+D:\yazılım işi\NDP proje odev\NDP proje odev\obj\Debug\net8.0-windows\ref\NDP proje odev.dll
+D:\yazılım işi\NDP proje odev\NDP proje odev\obj\Debug\net8.0-windows\NDP_proje_odev.Form3.resources
+D:\yazılım işi\NDP proje odev\NDP proje odev\obj\Debug\net8.0-windows\NDP_proje_odev.Form4.resources
+D:\yazılım işi\NDP proje odev\NDP proje odev\obj\Debug\net8.0-windows\NDP_proje_odev.Form5.resources
