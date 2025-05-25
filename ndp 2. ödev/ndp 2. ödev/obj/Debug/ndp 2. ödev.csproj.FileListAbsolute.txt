@@ -1,0 +1,20 @@
+D:\yazılım işi\ndp 2. ödev\ndp 2. ödev\bin\Debug\ndp_2.ödev.exe.config
+D:\yazılım işi\ndp 2. ödev\ndp 2. ödev\bin\Debug\ndp_2.ödev.exe
+D:\yazılım işi\ndp 2. ödev\ndp 2. ödev\bin\Debug\ndp_2.ödev.pdb
+D:\yazılım işi\ndp 2. ödev\ndp 2. ödev\obj\Debug\ndp 2. ödev.csproj.AssemblyReference.cache
+D:\yazılım işi\ndp 2. ödev\ndp 2. ödev\obj\Debug\ndp_2.ödev.Form1.resources
+D:\yazılım işi\ndp 2. ödev\ndp 2. ödev\obj\Debug\ndp_2.ödev.Properties.Resources.resources
+D:\yazılım işi\ndp 2. ödev\ndp 2. ödev\obj\Debug\ndp 2. ödev.csproj.GenerateResource.cache
+D:\yazılım işi\ndp 2. ödev\ndp 2. ödev\obj\Debug\ndp 2. ödev.csproj.CoreCompileInputs.cache
+D:\yazılım işi\ndp 2. ödev\ndp 2. ödev\obj\Debug\ndp_2.ödev.exe
+D:\yazılım işi\ndp 2. ödev\ndp 2. ödev\obj\Debug\ndp_2.ödev.pdb
+C:\Users\Abdullah Cobaner\Desktop\ndp 2. ödev\ndp 2. ödev\bin\Debug\ndp_2.ödev.exe.config
+C:\Users\Abdullah Cobaner\Desktop\ndp 2. ödev\ndp 2. ödev\bin\Debug\ndp_2.ödev.exe
+C:\Users\Abdullah Cobaner\Desktop\ndp 2. ödev\ndp 2. ödev\bin\Debug\ndp_2.ödev.pdb
+C:\Users\Abdullah Cobaner\Desktop\ndp 2. ödev\ndp 2. ödev\obj\Debug\ndp 2. ödev.csproj.AssemblyReference.cache
+C:\Users\Abdullah Cobaner\Desktop\ndp 2. ödev\ndp 2. ödev\obj\Debug\ndp_2.ödev.Form1.resources
+C:\Users\Abdullah Cobaner\Desktop\ndp 2. ödev\ndp 2. ödev\obj\Debug\ndp_2.ödev.Properties.Resources.resources
+C:\Users\Abdullah Cobaner\Desktop\ndp 2. ödev\ndp 2. ödev\obj\Debug\ndp 2. ödev.csproj.GenerateResource.cache
+C:\Users\Abdullah Cobaner\Desktop\ndp 2. ödev\ndp 2. ödev\obj\Debug\ndp 2. ödev.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Cobaner\Desktop\ndp 2. ödev\ndp 2. ödev\obj\Debug\ndp_2.ödev.exe
+C:\Users\Abdullah Cobaner\Desktop\ndp 2. ödev\ndp 2. ödev\obj\Debug\ndp_2.ödev.pdb
